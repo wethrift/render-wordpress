@@ -14,6 +14,6 @@ This is a template repository for running [Wordpress](https://wordpress.org) on 
 
 ## Deployment
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/JetsetExpert/render-wordpress)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/wethrift/render-wordpress)
 
 See https://render.com/docs/deploy-wordpress for additional setup steps.
